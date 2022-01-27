@@ -1,0 +1,22 @@
+body {
+    padding: 10px;
+}
+  
+input {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 100%; 
+}
+
+textarea {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 240px;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+}
+  
